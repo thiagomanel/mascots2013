@@ -1,0 +1,4 @@
+It plots the latency of operation for trace replays
+
+generate_data_to_plot.sh - Given a output directory containing all factors outputs, it formats everything to a single output file.
+transform_output.py - It changes trace output format to something simple to ggplot
